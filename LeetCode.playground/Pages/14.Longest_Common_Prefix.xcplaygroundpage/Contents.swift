@@ -14,4 +14,5 @@ func longestCommonPrefix(_ strs: [String]) -> String {
     return common
 }
 
-print(longestCommonPrefix(["flower","flow","flight"]))
+//print(longestCommonPrefix(["flower","flow","flight"]))
+print(longestCommonPrefix(["a","b","c"]))
